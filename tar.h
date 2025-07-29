@@ -1,5 +1,5 @@
-#ifndef TAR_HH
-#define TAR_HH
+#ifndef TAR_H
+#define TAR_H
 
 #include <archive.h>
 #include <archive_entry.h>
